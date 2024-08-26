@@ -1,0 +1,2316 @@
+
+Un    4 17-051 L1.1 Olv
+
+Un    4 17-051 L1.1 Olv
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 4.00 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un    4 17-051 L1.1 Olv, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    37   -.012  41.079   -.002  39.639    .461  19.044   -.001    .006    .201   -.007    .003    .032   -.021   -.033    .000    .003    .014    .000 100.406
+
+AVER:    -.012  41.079   -.002  39.639    .461  19.044   -.001    .006    .201   -.007    .003    .032   -.021   -.033    .000    .003    .014    .000 100.406
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un    4 17-051 L1.1 Olv, Results Based on 4 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    37   -.001   1.560    .000   1.010    .010    .406    .000    .000    .004    .000    .000    .001    .000   -.003    .000    .000   4.000    .000   6.987
+
+AVER:    -.001   1.560    .000   1.010    .010    .406    .000    .000    .004    .000    .000    .001    .000   -.003    .000    .000   4.000    .000   6.987
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Olivine Mineral End-Member Calculations
+
+            Fo      Fa
+    37    79.4    20.6
+
+AVER:     79.4    20.6
+SDEV:       .0      .0
+
+Un    5 17-051 L1.2 Opx
+
+Un    5 17-051 L1.2 Opx
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 6.00 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un    5 17-051 L1.2 Opx, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    38    .000  29.684   1.886  55.516    .470  12.350    .004    .003    .009    .035    .157    .530   -.003   -.032   -.001   -.015    .014    .000 100.607
+
+AVER:     .000  29.684   1.886  55.516    .470  12.350    .004    .003    .009    .035    .157    .530   -.003   -.032   -.001   -.015    .014    .000 100.607
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un    5 17-051 L1.2 Opx, Results Based on 6 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    38    .000   1.560    .078   1.957    .014    .364    .000    .000    .000    .001    .004    .020    .000   -.004    .000    .000   6.000    .000   9.994
+
+AVER:     .000   1.560    .078   1.957    .014    .364    .000    .000    .000    .001    .004    .020    .000   -.004    .000    .000   6.000    .000   9.994
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Pyroxene Mineral End-Member Calculations
+
+            Wo      En      Fs
+    38     1.0    80.2    18.7
+
+AVER:      1.0    80.2    18.7
+SDEV:       .0      .0      .0
+
+Un    7 17-051 L1.3 Oxide Timag
+
+Un    7 17-051 L1.3 Oxide Timag
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =    5
+
+Formula Based on 4.00 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un    7 17-051 L1.3 Oxide Timag, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    39    .024   2.734   3.524    .126    .339  83.268   -.014    .011    .182    .632   2.558    .018   -.021   -.067    .002   -.007   5.949    .000  99.259
+
+AVER:     .024   2.734   3.524    .126    .339  83.268   -.014    .011    .182    .632   2.558    .018   -.021   -.067    .002   -.007   5.949    .000  99.259
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un    7 17-051 L1.3 Oxide Timag, Results Based on 4 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    39    .002    .152    .154    .005    .011   2.589   -.001    .000    .005    .019    .072    .001   -.001   -.008    .000    .000   4.000    .000   7.000
+
+AVER:     .002    .152    .154    .005    .011   2.589   -.001    .000    .005    .019    .072    .001   -.001   -.008    .000    .000   4.000    .000   7.000
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un    9 17-051 L1.4 Amph
+
+Un    9 17-051 L1.4 Amph
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un    9 17-051 L1.4 Amph, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    40   2.518  14.203  12.603  42.774    .163  11.858    .274    .034    .012    .110   1.636  11.455    .009    .027    .004    .013   -.012   2.000  99.681
+
+AVER:    2.518  14.203  12.603  42.774    .163  11.858    .274    .034    .012    .110   1.636  11.455    .009    .027    .004    .013   -.012   2.000  99.681
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un    9 17-051 L1.4 Amph, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    40    .658   2.853   2.001   5.764    .019   1.336    .047    .004    .001    .012    .166   1.654    .001    .012    .001    .001  22.000   1.798  38.326
+
+AVER:     .658   2.853   2.001   5.764    .019   1.336    .047    .004    .001    .012    .166   1.654    .001    .012    .001    .001  22.000   1.798  38.326
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   10 17-051 L1.5 Amph
+
+Un   10 17-051 L1.5 Amph
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   10 17-051 L1.5 Amph, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    41   2.712  13.165  14.406  40.886    .127  12.595    .334    .007   -.012    .016   1.986  11.369    .010    .051    .007   -.021   -.023   2.000  99.615
+
+AVER:    2.712  13.165  14.406  40.886    .127  12.595    .334    .007   -.012    .016   1.986  11.369    .010    .051    .007   -.021   -.023   2.000  99.615
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   10 17-051 L1.5 Amph, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    41    .713   2.663   2.304   5.548    .015   1.429    .058    .001   -.001    .002    .203   1.653    .001    .022    .002   -.001  22.000   1.810  38.420
+
+AVER:     .713   2.663   2.304   5.548    .015   1.429    .058    .001   -.001    .002    .203   1.653    .001    .022    .002   -.001  22.000   1.810  38.420
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   11 17-051 L1.6
+
+Un   11 17-051 L1.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   11 17-051 L1.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    42   2.651  15.211  12.366  43.205    .135  10.413    .277    .036   -.002    .009   1.978  11.319   -.003    .038    .003    .008   -.017   2.000  99.629
+
+AVER:    2.651  15.211  12.366  43.205    .135  10.413    .277    .036   -.002    .009   1.978  11.319   -.003    .038    .003    .008   -.017   2.000  99.629
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   11 17-051 L1.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    42    .688   3.036   1.951   5.785    .015   1.166    .047    .004    .000    .001    .199   1.624    .000    .016    .001    .000  22.000   1.786  38.320
+
+AVER:     .688   3.036   1.951   5.785    .015   1.166    .047    .004    .000    .001    .199   1.624    .000    .016    .001    .000  22.000   1.786  38.320
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   12 17-051 L1.7
+
+Un   12 17-051 L1.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   12 17-051 L1.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    43   2.433  13.303  12.994  42.499    .193  12.054    .317    .024    .016    .024   1.684  11.857    .029    .008    .006   -.024   -.005   2.000  99.413
+
+AVER:    2.433  13.303  12.994  42.499    .193  12.054    .317    .024    .016    .024   1.684  11.857    .029    .008    .006   -.024   -.005   2.000  99.413
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   12 17-051 L1.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    43    .638   2.683   2.071   5.749    .022   1.364    .055    .003    .002    .003    .171   1.718    .003    .004    .001   -.001  22.000   1.805  38.289
+
+AVER:     .638   2.683   2.071   5.749    .022   1.364    .055    .003    .002    .003    .171   1.718    .003    .004    .001   -.001  22.000   1.805  38.289
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   13 17-051 L1.8
+
+Un   13 17-051 L1.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   13 17-051 L1.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    44   -.004  39.323    .005  39.217    .482  21.191    .005    .015    .045   -.009    .018    .180   -.002    .005    .001   -.002   -.002   2.000 102.468
+
+AVER:    -.004  39.323    .005  39.217    .482  21.191    .005    .015    .045   -.009    .018    .180   -.002    .005    .001   -.002   -.002   2.000 102.468
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   13 17-051 L1.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    44   -.001   7.955    .001   5.321    .055   2.405    .001    .002    .005   -.001    .002    .026    .000    .002    .000    .000  22.000   1.810  39.583
+
+AVER:    -.001   7.955    .001   5.321    .055   2.405    .001    .002    .005   -.001    .002    .026    .000    .002    .000    .000  22.000   1.810  39.583
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   14 17-051 L1.9
+
+Un   14 17-051 L1.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   14 17-051 L1.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    45   2.214  14.763   9.440  45.050    .217  11.794    .441    .028    .009    .003   2.552  11.273    .005    .066    .066    .023   -.043   2.000  99.901
+
+AVER:    2.214  14.763   9.440  45.050    .217  11.794    .441    .028    .009    .003   2.552  11.273    .005    .066    .066    .023   -.043   2.000  99.901
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   14 17-051 L1.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    45    .577   2.956   1.494   6.051    .025   1.325    .076    .003    .001    .000    .258   1.622    .000    .028    .015    .001  22.000   1.792  38.225
+
+AVER:     .577   2.956   1.494   6.051    .025   1.325    .076    .003    .001    .000    .258   1.622    .000    .028    .015    .001  22.000   1.792  38.225
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   15 17-051 L1.10
+
+Un   15 17-051 L1.10
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   15 17-051 L1.10, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    46   2.611  15.413  12.133  43.195    .148  10.162    .314    .010    .011    .019   1.812  11.437   -.004    .043    .003    .012   -.019   2.000  99.298
+
+AVER:    2.611  15.413  12.133  43.195    .148  10.162    .314    .010    .011    .019   1.812  11.437   -.004    .043    .003    .012   -.019   2.000  99.298
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   15 17-051 L1.10, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    46    .680   3.086   1.921   5.802    .017   1.141    .054    .001    .001    .002    .183   1.646    .000    .018    .001    .001  22.000   1.792  38.344
+
+AVER:     .680   3.086   1.921   5.802    .017   1.141    .054    .001    .001    .002    .183   1.646    .000    .018    .001    .001  22.000   1.792  38.344
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   16 17-051 L1.11
+
+Un   16 17-051 L1.11
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   16 17-051 L1.11, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    47   2.606  14.937  12.482  42.920    .118  10.764    .290    .016    .014    .052   1.695  11.648    .009    .044    .002    .006   -.019   2.000  99.585
+
+AVER:    2.606  14.937  12.482  42.920    .118  10.764    .290    .016    .014    .052   1.695  11.648    .009    .044    .002    .006   -.019   2.000  99.585
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   16 17-051 L1.11, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    47    .679   2.992   1.977   5.767    .013   1.209    .050    .002    .002    .006    .171   1.677    .001    .019    .000    .000  22.000   1.792  38.356
+
+AVER:     .679   2.992   1.977   5.767    .013   1.209    .050    .002    .002    .006    .171   1.677    .001    .019    .000    .000  22.000   1.792  38.356
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   17 17-051 L2.1
+
+Un   17 17-051 L2.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   17 17-051 L2.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    48   2.727  14.674  13.508  42.166    .120  10.789    .344    .006    .005    .008   1.752  11.480   -.005    .048    .008   -.022   -.022   2.000  99.586
+
+AVER:    2.727  14.674  13.508  42.166    .120  10.789    .344    .006    .005    .008   1.752  11.480   -.005    .048    .008   -.022   -.022   2.000  99.586
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   17 17-051 L2.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    48    .711   2.942   2.141   5.670    .014   1.213    .059    .001    .001    .001    .177   1.654   -.001    .021    .002   -.001  22.000   1.794  38.398
+
+AVER:     .711   2.942   2.141   5.670    .014   1.213    .059    .001    .001    .001    .177   1.654   -.001    .021    .002   -.001  22.000   1.794  38.398
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   18 17-051 L2.2
+
+Un   18 17-051 L2.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   18 17-051 L2.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    49   2.576  14.574  13.333  42.292    .116  11.031    .338    .029    .008    .012   1.831  11.190   -.006    .025    .008    .045   -.012   2.000  99.389
+
+AVER:    2.576  14.574  13.333  42.292    .116  11.031    .338    .029    .008    .012   1.831  11.190   -.006    .025    .008    .045   -.012   2.000  99.389
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   18 17-051 L2.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    49    .673   2.926   2.116   5.695    .013   1.242    .058    .003    .001    .001    .185   1.615   -.001    .010    .002    .002  22.000   1.796  38.339
+
+AVER:     .673   2.926   2.116   5.695    .013   1.242    .058    .003    .001    .001    .185   1.615   -.001    .010    .002    .002  22.000   1.796  38.339
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   19 17-051 L2.3
+
+Un   19 17-051 L2.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   19 17-051 L2.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    50   1.762  15.546   7.413  47.651    .258  11.403    .366    .013    .010    .025   1.886  11.186   -.004    .078    .051    .025   -.044   2.000  99.625
+
+AVER:    1.762  15.546   7.413  47.651    .258  11.403    .366    .013    .010    .025   1.886  11.186   -.004    .078    .051    .025   -.044   2.000  99.625
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   19 17-051 L2.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    50    .457   3.096   1.167   6.366    .029   1.274    .062    .001    .001    .003    .189   1.601    .000    .033    .011    .001  22.000   1.782  38.075
+
+AVER:     .457   3.096   1.167   6.366    .029   1.274    .062    .001    .001    .003    .189   1.601    .000    .033    .011    .001  22.000   1.782  38.075
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   20 17-051 L2.4
+
+Un   20 17-051 L2.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   20 17-051 L2.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    51   2.088  14.140   9.440  45.341    .285  12.553    .456    .025    .013    .049   2.206  11.326   -.001    .071    .057   -.004   -.042   2.000 100.001
+
+AVER:    2.088  14.140   9.440  45.341    .285  12.553    .456    .025    .013    .049   2.206  11.326   -.001    .071    .057   -.004   -.042   2.000 100.001
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   20 17-051 L2.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    51    .545   2.835   1.496   6.098    .032   1.412    .078    .003    .001    .005    .223   1.632    .000    .030    .013    .000  22.000   1.794  38.197
+
+AVER:     .545   2.835   1.496   6.098    .032   1.412    .078    .003    .001    .005    .223   1.632    .000    .030    .013    .000  22.000   1.794  38.197
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   21 17-051 L2.5
+
+Un   21 17-051 L2.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   21 17-051 L2.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    52   2.619  12.772  14.624  40.483    .165  12.706    .358    .021   -.001    .019   2.002  11.632   -.007    .038    .017    .001   -.020   2.000  99.430
+
+AVER:    2.619  12.772  14.624  40.483    .165  12.706    .358    .021   -.001    .019   2.002  11.632   -.007    .038    .017    .001   -.020   2.000  99.430
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   21 17-051 L2.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    52    .692   2.594   2.348   5.514    .019   1.447    .062    .002    .000    .002    .205   1.698   -.001    .016    .004    .000  22.000   1.817  38.420
+
+AVER:     .692   2.594   2.348   5.514    .019   1.447    .062    .002    .000    .002    .205   1.698   -.001    .016    .004    .000  22.000   1.817  38.420
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   22 17-051 L2.6
+
+Un   22 17-051 L2.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   22 17-051 L2.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    53    .468  13.869   6.005  49.228    .146   7.757    .018    .029   -.007    .104   1.160  21.613    .013   -.032    .003   -.002    .013   2.000 102.386
+
+AVER:     .468  13.869   6.005  49.228    .146   7.757    .018    .029   -.007    .104   1.160  21.613    .013   -.032    .003   -.002    .013   2.000 102.386
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   22 17-051 L2.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    53    .118   2.697    .923   6.422    .016    .846    .003    .003   -.001    .011    .114   3.021    .001   -.013    .001    .000  22.000   1.740  37.902
+
+AVER:     .118   2.697    .923   6.422    .016    .846    .003    .003   -.001    .011    .114   3.021    .001   -.013    .001    .000  22.000   1.740  37.902
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   23 17-051 L2.7
+
+Un   23 17-051 L2.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   23 17-051 L2.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    54   2.484  13.411  13.024  42.010    .193  12.322    .355    .010   -.025    .013   1.929  11.650    .045    .029    .006    .010   -.014   2.000  99.450
+
+AVER:    2.484  13.411  13.024  42.010    .193  12.322    .355    .010   -.025    .013   1.929  11.650    .045    .029    .006    .010   -.014   2.000  99.450
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   23 17-051 L2.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    54    .653   2.711   2.081   5.696    .022   1.397    .061    .001   -.003    .001    .197   1.692    .005    .013    .001    .001  22.000   1.809  38.338
+
+AVER:     .653   2.711   2.081   5.696    .022   1.397    .061    .001   -.003    .001    .197   1.692    .005    .013    .001    .001  22.000   1.809  38.338
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   24 17-051 L2.8
+
+Un   24 17-051 L2.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   24 17-051 L2.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    55   2.576  12.889  14.079  41.105    .164  12.739    .318    .011   -.012    .101   1.858  11.867    .022   -.014    .004    .015    .005   2.000  99.726
+
+AVER:    2.576  12.889  14.079  41.105    .164  12.739    .318    .011   -.012    .101   1.858  11.867    .022   -.014    .004    .015    .005   2.000  99.726
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   24 17-051 L2.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    55    .678   2.606   2.251   5.576    .019   1.445    .055    .001   -.001    .011    .189   1.725    .002   -.006    .001    .001  22.000   1.810  38.362
+
+AVER:     .678   2.606   2.251   5.576    .019   1.445    .055    .001   -.001    .011    .189   1.725    .002   -.006    .001    .001  22.000   1.810  38.362
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   25 17-051 L2.9
+
+Un   25 17-051 L2.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   25 17-051 L2.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    56    .267  16.233   2.981  53.047    .123   4.538    .002    .006    .014    .509    .402  22.699   -.007   -.009    .004    .028    .003   2.000 102.841
+
+AVER:     .267  16.233   2.981  53.047    .123   4.538    .002    .006    .014    .509    .402  22.699   -.007   -.009    .004    .028    .003   2.000 102.841
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   25 17-051 L2.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    56    .066   3.096    .450   6.787    .013    .486    .000    .001    .001    .051    .039   3.112   -.001   -.004    .001    .001  22.000   1.707  37.807
+
+AVER:     .066   3.096    .450   6.787    .013    .486    .000    .001    .001    .051    .039   3.112   -.001   -.004    .001    .001  22.000   1.707  37.807
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   26 17-051 L3.1
+
+Un   26 17-051 L3.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   26 17-051 L3.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    57   2.421  14.887  12.145  43.564    .138  10.748    .549    .035    .001    .018   1.591  11.376   -.030    .059    .003   -.006   -.026   2.000  99.474
+
+AVER:    2.421  14.887  12.145  43.564    .138  10.748    .549    .035    .001    .018   1.591  11.376   -.030    .059    .003   -.006   -.026   2.000  99.474
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   26 17-051 L3.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    57    .631   2.981   1.923   5.852    .016   1.207    .094    .004    .000    .002    .161   1.637   -.003    .025    .001    .000  22.000   1.792  38.322
+
+AVER:     .631   2.981   1.923   5.852    .016   1.207    .094    .004    .000    .002    .161   1.637   -.003    .025    .001    .000  22.000   1.792  38.322
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   27 17-051 L3.2
+
+Un   27 17-051 L3.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   27 17-051 L3.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    58   2.596  15.311  12.958  42.730    .131   9.736    .325    .009   -.002    .003   1.751  11.629    .008    .018    .010   -.006   -.010   2.000  99.197
+
+AVER:    2.596  15.311  12.958  42.730    .131   9.736    .325    .009   -.002    .003   1.751  11.629    .008    .018    .010   -.006   -.010   2.000  99.197
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   27 17-051 L3.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    58    .675   3.063   2.050   5.734    .015   1.093    .056    .001    .000    .000    .177   1.672    .001    .007    .002    .000  22.000   1.790  38.336
+
+AVER:     .675   3.063   2.050   5.734    .015   1.093    .056    .001    .000    .000    .177   1.672    .001    .007    .002    .000  22.000   1.790  38.336
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   28 17-051 L3.3
+
+Un   28 17-051 L3.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   28 17-051 L3.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    59   2.572  13.369  13.759  41.414    .144  12.120    .317    .024    .007    .005   1.956  11.657    .028    .028    .008   -.007   -.013   2.000  99.389
+
+AVER:    2.572  13.369  13.759  41.414    .144  12.120    .317    .024    .007    .005   1.956  11.657    .028    .028    .008   -.007   -.013   2.000  99.389
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   28 17-051 L3.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    59    .676   2.703   2.199   5.617    .017   1.375    .055    .003    .001    .001    .200   1.694    .003    .012    .002    .000  22.000   1.809  38.365
+
+AVER:     .676   2.703   2.199   5.617    .017   1.375    .055    .003    .001    .001    .200   1.694    .003    .012    .002    .000  22.000   1.809  38.365
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   29 17-051 L3.4
+
+Un   29 17-051 L3.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   29 17-051 L3.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    60   2.478  13.577  13.411  41.951    .151  11.637    .351   -.003   -.002    .078   1.694  11.748    .021    .014    .010    .011   -.008   2.000  99.119
+
+AVER:    2.478  13.577  13.411  41.951    .151  11.637    .351   -.003   -.002    .078   1.694  11.748    .021    .014    .010    .011   -.008   2.000  99.119
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   29 17-051 L3.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    60    .651   2.745   2.143   5.688    .017   1.320    .061    .000    .000    .008    .173   1.707    .002    .006    .002    .001  22.000   1.809  38.333
+
+AVER:     .651   2.745   2.143   5.688    .017   1.320    .061    .000    .000    .008    .173   1.707    .002    .006    .002    .001  22.000   1.809  38.333
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   30 17-051 L3.5
+
+Un   30 17-051 L3.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   30 17-051 L3.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    61   2.377  15.265  12.043  43.295    .110  10.034    .628    .016    .023    .034   1.820  11.522    .017    .045    .008    .004   -.021   2.000  99.221
+
+AVER:    2.377  15.265  12.043  43.295    .110  10.034    .628    .016    .023    .034   1.820  11.522    .017    .045    .008    .004   -.021   2.000  99.221
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   30 17-051 L3.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    61    .620   3.060   1.908   5.821    .012   1.128    .108    .002    .002    .004    .184   1.660    .002    .019    .002    .000  22.000   1.794  38.325
+
+AVER:     .620   3.060   1.908   5.821    .012   1.128    .108    .002    .002    .004    .184   1.660    .002    .019    .002    .000  22.000   1.794  38.325
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   31 17-15F L1.1
+
+Un   31 17-15F L1.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   31 17-15F L1.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    62   2.239  15.914  11.640  45.170    .171   9.822    .450    .027   -.004    .068   1.020  11.170   -.005    .094    .013   -.027   -.043   2.000  99.720
+
+AVER:    2.239  15.914  11.640  45.170    .171   9.822    .450    .027   -.004    .068   1.020  11.170   -.005    .094    .013   -.027   -.043   2.000  99.720
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   31 17-15F L1.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    62    .577   3.152   1.823   6.001    .019   1.091    .076    .003    .000    .007    .102   1.590   -.001    .040    .003   -.001  22.000   1.772  38.255
+
+AVER:     .577   3.152   1.823   6.001    .019   1.091    .076    .003    .000    .007    .102   1.590   -.001    .040    .003   -.001  22.000   1.772  38.255
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   32 17-15F L1.2
+
+Un   32 17-15F L1.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   32 17-15F L1.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    63   2.239  15.972  11.256  45.436    .208   9.764    .421    .004    .017    .092   1.261  11.051    .006    .089    .010    .024   -.040   2.000  99.811
+
+AVER:    2.239  15.972  11.256  45.436    .208   9.764    .421    .004    .017    .092   1.261  11.051    .006    .089    .010    .024   -.040   2.000  99.811
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   32 17-15F L1.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    63    .576   3.160   1.761   6.030    .023   1.084    .071    .000    .002    .010    .126   1.571    .001    .037    .002    .001  22.000   1.770  38.226
+
+AVER:     .576   3.160   1.761   6.030    .023   1.084    .071    .000    .002    .010    .126   1.571    .001    .037    .002    .001  22.000   1.770  38.226
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   33 17-15F L1.3
+
+Un   33 17-15F L1.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   33 17-15F L1.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    64   2.295  13.800  11.540  43.737    .246  12.397    .442   -.002    .006    .015   1.775  11.383   -.026    .075    .039    .017   -.041   2.000  99.699
+
+AVER:    2.295  13.800  11.540  43.737    .246  12.397    .442   -.002    .006    .015   1.775  11.383   -.026    .075    .039    .017   -.041   2.000  99.699
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   33 17-15F L1.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    64    .601   2.779   1.837   5.907    .028   1.400    .076    .000    .001    .002    .180   1.647   -.003    .032    .009    .001  22.000   1.802  38.300
+
+AVER:     .601   2.779   1.837   5.907    .028   1.400    .076    .000    .001    .002    .180   1.647   -.003    .032    .009    .001  22.000   1.802  38.300
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   34 17-15F L1.4
+
+Un   34 17-15F L1.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   34 17-15F L1.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    65   2.451  15.716  12.101  44.124    .133   9.116    .483    .026    .012    .206   1.746  11.519    .006    .107    .015    .015   -.049   2.000  99.726
+
+AVER:    2.451  15.716  12.101  44.124    .133   9.116    .483    .026    .012    .206   1.746  11.519    .006    .107    .015    .015   -.049   2.000  99.726
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   34 17-15F L1.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    65    .633   3.119   1.898   5.873    .015   1.015    .082    .003    .001    .022    .175   1.643    .001    .045    .003    .001  22.000   1.776  38.304
+
+AVER:     .633   3.119   1.898   5.873    .015   1.015    .082    .003    .001    .022    .175   1.643    .001    .045    .003    .001  22.000   1.776  38.304
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   35 17-15F L1.5
+
+Un   35 17-15F L1.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   35 17-15F L1.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    66   2.069  15.321  10.902  45.446    .194  10.591    .417    .021    .013    .270    .894  11.435    .003    .075    .016   -.008   -.035   2.000  99.625
+
+AVER:    2.069  15.321  10.902  45.446    .194  10.591    .417    .021    .013    .270    .894  11.435    .003    .075    .016   -.008   -.035   2.000  99.625
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   35 17-15F L1.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    66    .536   3.049   1.715   6.066    .022   1.182    .071    .002    .001    .029    .090   1.635    .000    .032    .004    .000  22.000   1.781  38.214
+
+AVER:     .536   3.049   1.715   6.066    .022   1.182    .071    .002    .001    .029    .090   1.635    .000    .032    .004    .000  22.000   1.781  38.214
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   36 17-15F L1.7
+
+Un   36 17-15F L1.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   36 17-15F L1.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    67   2.324  13.854  11.878  43.667    .240  11.837    .476    .035    .006    .228   1.682  11.394    .014    .077    .021    .004   -.037   2.000  99.698
+
+AVER:    2.324  13.854  11.878  43.667    .240  11.837    .476    .035    .006    .228   1.682  11.394    .014    .077    .021    .004   -.037   2.000  99.698
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   36 17-15F L1.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    67    .607   2.782   1.886   5.883    .027   1.334    .082    .004    .001    .024    .170   1.645    .001    .033    .005    .000  22.000   1.797  38.282
+
+AVER:     .607   2.782   1.886   5.883    .027   1.334    .082    .004    .001    .024    .170   1.645    .001    .033    .005    .000  22.000   1.797  38.282
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   37 17-15F L1.6
+
+Un   37 17-15F L1.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   37 17-15F L1.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    68   2.435  14.273  12.399  43.429    .198  11.165    .439    .031    .026    .196   1.508  11.383   -.025    .060    .023    .004   -.030   2.000  99.513
+
+AVER:    2.435  14.273  12.399  43.429    .198  11.165    .439    .031    .026    .196   1.508  11.383   -.025    .060    .023    .004   -.030   2.000  99.513
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   37 17-15F L1.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    68    .635   2.863   1.966   5.844    .023   1.257    .075    .004    .003    .021    .153   1.641   -.003    .025    .005    .000  22.000   1.795  38.308
+
+AVER:     .635   2.863   1.966   5.844    .023   1.257    .075    .004    .003    .021    .153   1.641   -.003    .025    .005    .000  22.000   1.795  38.308
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   38 17-15F L1.8
+
+Un   38 17-15F L1.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   38 17-15F L1.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    69   2.091  16.079  11.050  46.048    .173   9.360    .475    .022    .046    .320    .658  11.419   -.004    .094    .016    .025   -.043   2.000  99.828
+
+AVER:    2.091  16.079  11.050  46.048    .173   9.360    .475    .022    .046    .320    .658  11.419   -.004    .094    .016    .025   -.043   2.000  99.828
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   38 17-15F L1.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    69    .537   3.175   1.725   6.099    .019   1.037    .080    .002    .005    .034    .066   1.620    .000    .039    .004    .001  22.000   1.767  38.210
+
+AVER:     .537   3.175   1.725   6.099    .019   1.037    .080    .002    .005    .034    .066   1.620    .000    .039    .004    .001  22.000   1.767  38.210
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   39 17-15F L1.9
+
+Un   39 17-15F L1.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   39 17-15F L1.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    70   2.171  14.303  11.171  44.308    .228  11.613    .461    .007   -.007    .114   1.727  11.379    .016    .052    .020   -.003   -.026   2.000  99.533
+
+AVER:    2.171  14.303  11.171  44.308    .228  11.613    .461    .007   -.007    .114   1.727  11.379    .016    .052    .020   -.003   -.026   2.000  99.533
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   39 17-15F L1.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    70    .566   2.869   1.771   5.961    .026   1.307    .079    .001   -.001    .012    .175   1.640    .002    .022    .004    .000  22.000   1.795  38.228
+
+AVER:     .566   2.869   1.771   5.961    .026   1.307    .079    .001   -.001    .012    .175   1.640    .002    .022    .004    .000  22.000   1.795  38.228
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   40 17-15F L1.10
+
+Un   40 17-15F L1.10
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   40 17-15F L1.10, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    71   1.922  15.524   7.914  47.301    .272  11.185    .343    .021    .008    .046   2.018  11.349    .015    .103    .058    .004   -.056   2.000 100.026
+
+AVER:    1.922  15.524   7.914  47.301    .272  11.185    .343    .021    .008    .046   2.018  11.349    .015    .103    .058    .004   -.056   2.000 100.026
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   40 17-15F L1.10, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    71    .496   3.082   1.242   6.299    .031   1.246    .058    .002    .001    .005    .202   1.619    .001    .043    .013    .000  22.000   1.777  38.119
+
+AVER:     .496   3.082   1.242   6.299    .031   1.246    .058    .002    .001    .005    .202   1.619    .001    .043    .013    .000  22.000   1.777  38.119
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   41 17-15F L2.1
+
+Un   41 17-15F L2.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   41 17-15F L2.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    72   2.408  15.352  11.987  44.041    .171   9.884    .482    .002    .014    .194   1.682  11.433   -.004    .122    .014    .001   -.055   2.000  99.726
+
+AVER:    2.408  15.352  11.987  44.041    .171   9.884    .482    .002    .014    .194   1.682  11.433   -.004    .122    .014    .001   -.055   2.000  99.726
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   41 17-15F L2.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    72    .624   3.057   1.887   5.883    .019   1.104    .082    .000    .001    .020    .169   1.636    .000    .051    .003    .000  22.000   1.782  38.321
+
+AVER:     .624   3.057   1.887   5.883    .019   1.104    .082    .000    .001    .020    .169   1.636    .000    .051    .003    .000  22.000   1.782  38.321
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   42 17-15F L2.3
+
+Un   42 17-15F L2.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   42 17-15F L2.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    73   1.820  15.360   7.607  47.732    .292  11.616    .292   -.001    .009    .017   2.109  11.256   -.017    .089    .055    .031   -.050   2.000 100.217
+
+AVER:    1.820  15.360   7.607  47.732    .292  11.616    .292   -.001    .009    .017   2.109  11.256   -.017    .089    .055    .031   -.050   2.000 100.217
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   42 17-15F L2.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    73    .469   3.045   1.192   6.347    .033   1.292    .050    .000    .001    .002    .211   1.604   -.002    .037    .012    .002  22.000   1.774  38.069
+
+AVER:     .469   3.045   1.192   6.347    .033   1.292    .050    .000    .001    .002    .211   1.604   -.002    .037    .012    .002  22.000   1.774  38.069
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   43 17-15F L2.4
+
+Un   43 17-15F L2.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   43 17-15F L2.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    74   2.418  13.107  11.433  42.976    .264  13.575    .531    .017   -.009    .052   2.286  11.212    .004    .053    .056    .034   -.035   2.000  99.973
+
+AVER:    2.418  13.107  11.433  42.976    .264  13.575    .531    .017   -.009    .052   2.286  11.212    .004    .053    .056    .034   -.035   2.000  99.973
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   43 17-15F L2.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    74    .636   2.652   1.829   5.834    .030   1.541    .092    .002   -.001    .006    .233   1.631    .000    .023    .013    .002  22.000   1.811  38.335
+
+AVER:     .636   2.652   1.829   5.834    .030   1.541    .092    .002   -.001    .006    .233   1.631    .000    .023    .013    .002  22.000   1.811  38.335
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   44 17-15F L2.5*
+
+Un   44 17-15F L2.5*
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   44 17-15F L2.5*, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    75    .015   1.588   1.769    .033    .450  87.163   -.004    .000    .005    .431   1.783    .034    .002   -.114    .006    .008    .047   2.000  95.215
+
+AVER:     .015   1.588   1.769    .033    .450  87.163   -.004    .000    .005    .431   1.783    .034    .002   -.114    .006    .008    .047   2.000  95.215
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   44 17-15F L2.5*, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    75    .007    .586    .516    .008    .094  18.032   -.001    .000    .001    .084    .332    .009    .000   -.089    .002    .001  22.000   3.300  44.882
+
+AVER:     .007    .586    .516    .008    .094  18.032   -.001    .000    .001    .084    .332    .009    .000   -.089    .002    .001  22.000   3.300  44.882
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   45 17-15F L2.6
+
+Un   45 17-15F L2.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   45 17-15F L2.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    76    .016  24.981    .467  54.779    .946  18.272   -.006   -.010   -.004   -.002    .106    .812    .000   -.050    .004    .009    .020   2.000 102.340
+
+AVER:     .016  24.981    .467  54.779    .946  18.272   -.006   -.010   -.004   -.002    .106    .812    .000   -.050    .004    .009    .020   2.000 102.340
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   45 17-15F L2.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    76    .004   4.778    .071   7.028    .103   1.961   -.001   -.001    .000    .000    .010    .112    .000   -.020    .001    .000  22.000   1.712  37.756
+
+AVER:     .004   4.778    .071   7.028    .103   1.961   -.001   -.001    .000    .000    .010    .112    .000   -.020    .001    .000  22.000   1.712  37.756
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   46 17-15F L2.7
+
+Un   46 17-15F L2.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   46 17-15F L2.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    77   2.375  12.930  12.088  42.304    .278  13.996    .582    .006    .008    .272   2.029  11.406    .001    .046    .041    .025   -.028   2.000 100.357
+
+AVER:    2.375  12.930  12.088  42.304    .278  13.996    .582    .006    .008    .272   2.029  11.406    .001    .046    .041    .025   -.028   2.000 100.357
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   46 17-15F L2.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    77    .625   2.617   1.934   5.743    .032   1.589    .101    .001    .001    .029    .207   1.659    .000    .020    .009    .001  22.000   1.811  38.379
+
+AVER:     .625   2.617   1.934   5.743    .032   1.589    .101    .001    .001    .029    .207   1.659    .000    .020    .009    .001  22.000   1.811  38.379
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   47 17-15F L2.8
+
+Un   47 17-15F L2.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   47 17-15F L2.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    78    .026  25.566    .755  55.176    .929  17.868   -.004    .007    .011    .022    .070    .705    .014   -.034   -.008    .004    .016   2.000 103.123
+
+AVER:     .026  25.566    .755  55.176    .929  17.868   -.004    .007    .011    .022    .070    .705    .014   -.034   -.008    .004    .016   2.000 103.123
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   47 17-15F L2.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    78    .006   4.840    .113   7.007    .100   1.898   -.001    .001    .001    .002    .007    .096    .001   -.014   -.002    .000  22.000   1.694  37.752
+
+AVER:     .006   4.840    .113   7.007    .100   1.898   -.001    .001    .001    .002    .007    .096    .001   -.014   -.002    .000  22.000   1.694  37.752
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   48 17-15F L2.9
+
+Un   48 17-15F L2.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   48 17-15F L2.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    79   1.829  15.512   7.562  47.841    .290  11.581    .346    .000    .019    .038   1.890  11.148    .003    .086    .065    .002   -.051   2.000 100.161
+
+AVER:    1.829  15.512   7.562  47.841    .290  11.581    .346    .000    .019    .038   1.890  11.148    .003    .086    .065    .002   -.051   2.000 100.161
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   48 17-15F L2.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    79    .472   3.075   1.185   6.362    .033   1.288    .059    .000    .002    .004    .189   1.588    .000    .036    .015    .000  22.000   1.774  38.082
+
+AVER:     .472   3.075   1.185   6.362    .033   1.288    .059    .000    .002    .004    .189   1.588    .000    .036    .015    .000  22.000   1.774  38.082
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   49 17-15F L2.10*
+
+Un   49 17-15F L2.10*
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   49 17-15F L2.10*, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    80    .017   1.671   1.755    .092    .454  84.601   -.004   -.015    .013    .493   4.762    .060    .009   -.092    .000   -.019    .039   2.000  95.836
+
+AVER:     .017   1.671   1.755    .092    .454  84.601   -.004   -.015    .013    .493   4.762    .060    .009   -.092    .000   -.019    .039   2.000  95.836
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   49 17-15F L2.10*, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    80    .008    .599    .497    .022    .092  17.003   -.001   -.003    .003    .094    .861    .016    .002   -.070    .000   -.002  22.000   3.206  44.325
+
+AVER:     .008    .599    .497    .022    .092  17.003   -.001   -.003    .003    .094    .861    .016    .002   -.070    .000   -.002  22.000   3.206  44.325
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   50 17-15F L2.2
+
+Un   50 17-15F L2.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   50 17-15F L2.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    81   2.469  15.250  12.177  43.655    .194  10.093    .438   -.005    .012    .154   1.775  11.377    .056    .083    .013    .023   -.038   2.000  99.729
+
+AVER:    2.469  15.250  12.177  43.655    .194  10.093    .438   -.005    .012    .154   1.775  11.377    .056    .083    .013    .023   -.038   2.000  99.729
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   50 17-15F L2.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    81    .640   3.039   1.919   5.836    .022   1.129    .075   -.001    .001    .016    .178   1.630    .006    .035    .003    .001  22.000   1.784  38.314
+
+AVER:     .640   3.039   1.919   5.836    .022   1.129    .075   -.001    .001    .016    .178   1.630    .006    .035    .003    .001  22.000   1.784  38.314
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   51 17-17A1 L1.1
+
+Un   51 17-17A1 L1.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   51 17-17A1 L1.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    82    .008  24.337   1.375  54.052   1.156  18.238   -.001    .024   -.018    .057    .117   1.159   -.006   -.015    .001   -.021    .006   2.000 102.469
+
+AVER:     .008  24.337   1.375  54.052   1.156  18.238   -.001    .024   -.018    .057    .117   1.159   -.006   -.015    .001   -.021    .006   2.000 102.469
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   51 17-17A1 L1.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    82    .002   4.661    .208   6.944    .126   1.959    .000    .003   -.002    .006    .011    .160   -.001   -.006    .000   -.001  22.000   1.714  37.784
+
+AVER:     .002   4.661    .208   6.944    .126   1.959    .000    .003   -.002    .006    .011    .160   -.001   -.006    .000   -.001  22.000   1.714  37.784
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   52 17-17A1 L1.2*
+
+Un   52 17-17A1 L1.2*
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   52 17-17A1 L1.2*, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    83    .029   1.663   1.801    .034    .410  83.490   -.018    .015    .036   1.129   4.923    .023    .022   -.126    .002   -.004    .053   2.000  95.482
+
+AVER:     .029   1.663   1.801    .034    .410  83.490   -.018    .015    .036   1.129   4.923    .023    .022   -.126    .002   -.004    .053   2.000  95.482
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   52 17-17A1 L1.2*, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    83    .014    .595    .509    .008    .083  16.758   -.006    .003    .007    .214    .889    .006    .004   -.095    .001    .000  22.000   3.202  44.192
+
+AVER:     .014    .595    .509    .008    .083  16.758   -.006    .003    .007    .214    .889    .006    .004   -.095    .001    .000  22.000   3.202  44.192
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   53 17-17A1 L1.3
+
+Un   53 17-17A1 L1.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   53 17-17A1 L1.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    84    .021  24.176   1.368  54.096   1.186  18.236    .002    .017    .000    .043    .111   1.185    .000   -.049    .004    .004    .020   2.000 102.419
+
+AVER:     .021  24.176   1.368  54.096   1.186  18.236    .002    .017    .000    .043    .111   1.185    .000   -.049    .004    .004    .020   2.000 102.419
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   53 17-17A1 L1.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    84    .005   4.632    .207   6.952    .129   1.960    .000    .002    .000    .004    .011    .163    .000   -.020    .001    .000  22.000   1.714  37.761
+
+AVER:     .005   4.632    .207   6.952    .129   1.960    .000    .002    .000    .004    .011    .163    .000   -.020    .001    .000  22.000   1.714  37.761
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   54 17-17A1 L1.4
+
+Un   54 17-17A1 L1.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   54 17-17A1 L1.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    85   2.434  13.622  11.949  42.581    .212  12.707    .483    .036    .024    .046   2.535  11.226    .002    .058    .034    .041   -.032   2.000  99.958
+
+AVER:    2.434  13.622  11.949  42.581    .212  12.707    .483    .036    .024    .046   2.535  11.226    .002    .058    .034    .041   -.032   2.000  99.958
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   54 17-17A1 L1.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    85    .638   2.747   1.905   5.760    .024   1.438    .083    .004    .003    .005    .258   1.627    .000    .025    .008    .002  22.000   1.805  38.332
+
+AVER:     .638   2.747   1.905   5.760    .024   1.438    .083    .004    .003    .005    .258   1.627    .000    .025    .008    .002  22.000   1.805  38.332
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   55 17-17A1 L1.5
+
+Un   55 17-17A1 L1.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   55 17-17A1 L1.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    86   1.824  17.767   6.432  49.275    .405  12.904    .316    .020    .006    .091   1.385   8.371   -.018    .051    .050   -.014   -.033   2.000 100.832
+
+AVER:    1.824  17.767   6.432  49.275    .405  12.904    .316    .020    .006    .091   1.385   8.371   -.018    .051    .050   -.014   -.033   2.000 100.832
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   55 17-17A1 L1.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    86    .465   3.485    .997   6.483    .045   1.420    .053    .002    .001    .009    .137   1.180   -.002    .021    .011   -.001  22.000   1.755  38.062
+
+AVER:     .465   3.485    .997   6.483    .045   1.420    .053    .002    .001    .009    .137   1.180   -.002    .021    .011   -.001  22.000   1.755  38.062
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   56 17-09A1 L1.7
+
+Un   56 17-09A1 L1.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   56 17-09A1 L1.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    87   2.367  13.996  11.288  44.422    .289  12.366    .366    .028    .015    .077   1.492  11.068    .039    .097    .024   -.011   -.046   2.000  99.877
+
+AVER:    2.367  13.996  11.288  44.422    .289  12.366    .366    .028    .015    .077   1.492  11.068    .039    .097    .024   -.011   -.046   2.000  99.877
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   56 17-09A1 L1.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    87    .617   2.805   1.789   5.973    .033   1.390    .063    .003    .002    .008    .151   1.594    .004    .041    .005   -.001  22.000   1.794  38.272
+
+AVER:     .617   2.805   1.789   5.973    .033   1.390    .063    .003    .002    .008    .151   1.594    .004    .041    .005   -.001  22.000   1.794  38.272
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   57 17-09A1 L1.8
+
+Un   57 17-09A1 L1.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   57 17-09A1 L1.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    88   1.798  15.571   7.380  47.586    .323  11.486    .329   -.008    .008    .035   1.696  10.899    .004    .074    .067    .027   -.046   2.000  99.227
+
+AVER:    1.798  15.571   7.380  47.586    .323  11.486    .329   -.008    .008    .035   1.696  10.899    .004    .074    .067    .027   -.046   2.000  99.227
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   57 17-09A1 L1.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    88    .467   3.113   1.166   6.382    .037   1.288    .056   -.001    .001    .004    .171   1.566    .000    .031    .015    .001  22.000   1.789  38.089
+
+AVER:     .467   3.113   1.166   6.382    .037   1.288    .056   -.001    .001    .004    .171   1.566    .000    .031    .015    .001  22.000   1.789  38.089
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   58 17-09A1 L1.9
+
+Un   58 17-09A1 L1.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   58 17-09A1 L1.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    89   2.397  14.294  11.158  43.932    .245  11.926    .373    .033    .042    .057   1.195  10.879    .003    .087    .026    .005   -.043   2.000  98.609
+
+AVER:    2.397  14.294  11.158  43.932    .245  11.926    .373    .033    .042    .057   1.195  10.879    .003    .087    .026    .005   -.043   2.000  98.609
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   58 17-09A1 L1.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    89    .632   2.898   1.788   5.974    .028   1.356    .065    .004    .005    .006    .122   1.585    .000    .037    .006    .000  22.000   1.814  38.321
+
+AVER:     .632   2.898   1.788   5.974    .028   1.356    .065    .004    .005    .006    .122   1.585    .000    .037    .006    .000  22.000   1.814  38.321
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   59 17-09A1 L1.10
+
+Un   59 17-09A1 L1.10
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   59 17-09A1 L1.10, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    90   2.368  13.531  12.082  43.311    .296  12.399    .382    .032    .002    .118   1.408  10.802    .020    .106    .032   -.009   -.052   2.000  98.829
+
+AVER:    2.368  13.531  12.082  43.311    .296  12.399    .382    .032    .002    .118   1.408  10.802    .020    .106    .032   -.009   -.052   2.000  98.829
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   59 17-09A1 L1.10, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    90    .625   2.744   1.937   5.891    .034   1.411    .066    .004    .000    .013    .144   1.574    .002    .046    .007    .000  22.000   1.815  38.312
+
+AVER:     .625   2.744   1.937   5.891    .034   1.411    .066    .004    .000    .013    .144   1.574    .002    .046    .007    .000  22.000   1.815  38.312
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   60 17-09A1 L1.11
+
+Un   60 17-09A1 L1.11
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   60 17-09A1 L1.11, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    91   2.327  13.367  12.232  42.773    .291  12.624    .442    .035    .001    .058   1.516  10.811   -.001    .072    .028   -.014   -.036   2.000  98.525
+
+AVER:    2.327  13.367  12.232  42.773    .291  12.624    .442    .035    .001    .058   1.516  10.811   -.001    .072    .028   -.014   -.036   2.000  98.525
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   60 17-09A1 L1.11, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    91    .617   2.723   1.970   5.846    .034   1.443    .077    .004    .000    .006    .156   1.583    .000    .031    .006   -.001  22.000   1.823  38.319
+
+AVER:     .617   2.723   1.970   5.846    .034   1.443    .077    .004    .000    .006    .156   1.583    .000    .031    .006   -.001  22.000   1.823  38.319
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   61 17-09A1 L2.1
+
+Un   61 17-09A1 L2.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   61 17-09A1 L2.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    92   1.495  17.079   5.520  49.739    .234  10.091    .298    .004    .019   -.004   1.240  11.199    .025    .101    .074    .037   -.059   2.000  99.091
+
+AVER:    1.495  17.079   5.520  49.739    .234  10.091    .298    .004    .019   -.004   1.240  11.199    .025    .101    .074    .037   -.059   2.000  99.091
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   61 17-09A1 L2.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    92    .386   3.387    .865   6.617    .026   1.123    .050    .000    .002    .000    .124   1.596    .002    .043    .017    .002  22.000   1.775  38.015
+
+AVER:     .386   3.387    .865   6.617    .026   1.123    .050    .000    .002    .000    .124   1.596    .002    .043    .017    .002  22.000   1.775  38.015
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   62 17-09A1 L2.2
+
+Un   62 17-09A1 L2.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   62 17-09A1 L2.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    93   1.552  16.569   6.082  49.217    .267  10.707    .290   -.008    .006    .006   1.423  11.119    .006    .101    .080    .000   -.060   2.000  99.354
+
+AVER:    1.552  16.569   6.082  49.217    .267  10.707    .290   -.008    .006    .006   1.423  11.119    .006    .101    .080    .000   -.060   2.000  99.354
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   62 17-09A1 L2.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    93    .401   3.288    .954   6.552    .030   1.192    .049   -.001    .001    .001    .142   1.586    .001    .042    .018    .000  22.000   1.776  38.032
+
+AVER:     .401   3.288    .954   6.552    .030   1.192    .049   -.001    .001    .001    .142   1.586    .001    .042    .018    .000  22.000   1.776  38.032
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   63 17-09A1 L2.3
+
+Un   63 17-09A1 L2.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   63 17-09A1 L2.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    94   1.873  16.175   6.892  48.366    .287  10.541    .289    .005    .009    .043   1.713  11.184    .025    .131    .053    .016   -.067   2.000  99.535
+
+AVER:    1.873  16.175   6.892  48.366    .287  10.541    .289    .005    .009    .043   1.713  11.184    .025    .131    .053    .016   -.067   2.000  99.535
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   63 17-09A1 L2.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    94    .484   3.211   1.082   6.441    .032   1.174    .049    .001    .001    .005    .172   1.596    .002    .055    .012    .001  22.000   1.777  38.094
+
+AVER:     .484   3.211   1.082   6.441    .032   1.174    .049    .001    .001    .005    .172   1.596    .002    .055    .012    .001  22.000   1.777  38.094
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   64 17-09A1 L2.4
+
+Un   64 17-09A1 L2.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   64 17-09A1 L2.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    95   1.944  14.983   8.394  46.312    .291  11.480    .368    .027    .001    .021   1.927  11.017    .015    .084    .075    .036   -.052   2.000  98.922
+
+AVER:    1.944  14.983   8.394  46.312    .291  11.480    .368    .027    .001    .021   1.927  11.017    .015    .084    .075    .036   -.052   2.000  98.922
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   64 17-09A1 L2.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    95    .509   3.013   1.335   6.248    .033   1.295    .063    .003    .000    .002    .196   1.592    .002    .036    .017    .002  22.000   1.800  38.146
+
+AVER:     .509   3.013   1.335   6.248    .033   1.295    .063    .003    .000    .002    .196   1.592    .002    .036    .017    .002  22.000   1.800  38.146
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   65 17-09A1 L2.5
+
+Un   65 17-09A1 L2.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   65 17-09A1 L2.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    96    .244  16.182   2.764  53.072    .134   4.887   -.012    .009    .018    .537    .411  22.661    .022   -.010    .007    .022    .003   2.000 102.950
+
+AVER:     .244  16.182   2.764  53.072    .134   4.887   -.012    .009    .018    .537    .411  22.661    .022   -.010    .007    .022    .003   2.000 102.950
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   65 17-09A1 L2.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    96    .060   3.088    .417   6.793    .015    .523   -.002    .001    .002    .054    .040   3.108    .002   -.004    .001    .001  22.000   1.707  37.806
+
+AVER:     .060   3.088    .417   6.793    .015    .523   -.002    .001    .002    .054    .040   3.108    .002   -.004    .001    .001  22.000   1.707  37.806
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   66 17-09A1 L2.6
+
+Un   66 17-09A1 L2.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   66 17-09A1 L2.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    97    .285  15.027   4.239  51.392    .121   5.992    .000    .001    .009    .337    .658  22.298   -.003   -.032    .011    .020    .011   2.000 102.365
+
+AVER:     .285  15.027   4.239  51.392    .121   5.992    .000    .001    .009    .337    .658  22.298   -.003   -.032    .011    .020    .011   2.000 102.365
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   66 17-09A1 L2.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    97    .071   2.898    .646   6.648    .013    .648    .000    .000    .001    .034    .064   3.090    .000   -.013    .002    .001  22.000   1.726  37.831
+
+AVER:     .071   2.898    .646   6.648    .013    .648    .000    .000    .001    .034    .064   3.090    .000   -.013    .002    .001  22.000   1.726  37.831
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   67 17-09A1 L2.7
+
+Un   67 17-09A1 L2.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   67 17-09A1 L2.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    98    .013  25.278    .489  54.787   1.010  17.563    .008    .011   -.005    .001    .137    .919    .011   -.017    .006    .033    .006   2.000 102.248
+
+AVER:     .013  25.278    .489  54.787   1.010  17.563    .008    .011   -.005    .001    .137    .919    .011   -.017    .006    .033    .006   2.000 102.248
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   67 17-09A1 L2.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    98    .003   4.831    .074   7.023    .110   1.883    .001    .001   -.001    .000    .013    .126    .001   -.007    .001    .002  22.000   1.710  37.772
+
+AVER:     .003   4.831    .074   7.023    .110   1.883    .001    .001   -.001    .000    .013    .126    .001   -.007    .001    .002  22.000   1.710  37.772
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   68 17-09A1 L2.8
+
+Un   68 17-09A1 L2.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   68 17-09A1 L2.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+    99   1.805  15.775   7.257  47.732    .329  11.214    .288   -.002   -.006    .024   1.782  11.151   -.006    .093    .063    .021   -.054   2.000  99.466
+
+AVER:    1.805  15.775   7.257  47.732    .329  11.214    .288   -.002   -.006    .024   1.782  11.151   -.006    .093    .063    .021   -.054   2.000  99.466
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   68 17-09A1 L2.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+    99    .468   3.145   1.144   6.383    .037   1.254    .049    .000   -.001    .003    .179   1.598   -.001    .040    .014    .001  22.000   1.784  38.097
+
+AVER:     .468   3.145   1.144   6.383    .037   1.254    .049    .000   -.001    .003    .179   1.598   -.001    .040    .014    .001  22.000   1.784  38.097
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   69 17-09A1 L3.1 Transverse
+
+Un   69 17-09A1 L3.1 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   69 17-09A1 L3.1 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   100   1.945  14.803   9.384  45.450    .272  12.205    .467    .026   -.006    .080   1.261  11.298    .004    .061    .053    .040   -.038   2.000  99.305
+
+AVER:    1.945  14.803   9.384  45.450    .272  12.205    .467    .026   -.006    .080   1.261  11.298    .004    .061    .053    .040   -.038   2.000  99.305
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   69 17-09A1 L3.1 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   100    .509   2.981   1.494   6.139    .031   1.379    .081    .003   -.001    .009    .128   1.635    .000    .026    .012    .002  22.000   1.802  38.230
+
+AVER:     .509   2.981   1.494   6.139    .031   1.379    .081    .003   -.001    .009    .128   1.635    .000    .026    .012    .002  22.000   1.802  38.230
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   70 17-09A1 L3.2 Transverse
+
+Un   70 17-09A1 L3.2 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   70 17-09A1 L3.2 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   101   2.144  14.152   9.479  44.937    .299  12.517    .540    .017    .003    .030   2.188  11.198    .026    .105    .057    .044   -.057   2.000  99.678
+
+AVER:    2.144  14.152   9.479  44.937    .299  12.517    .540    .017    .003    .030   2.188  11.198    .026    .105    .057    .044   -.057   2.000  99.678
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   70 17-09A1 L3.2 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   101    .562   2.852   1.510   6.074    .034   1.415    .093    .002    .000    .003    .222   1.622    .003    .045    .013    .002  22.000   1.803  38.255
+
+AVER:     .562   2.852   1.510   6.074    .034   1.415    .093    .002    .000    .003    .222   1.622    .003    .045    .013    .002  22.000   1.803  38.255
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   71 17-09A1 L3.3 Transverse
+
+Un   71 17-09A1 L3.3 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   71 17-09A1 L3.3 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   102   2.266  14.141   9.510  44.817    .312  12.522    .504    .022   -.002    .035   2.136  11.156   -.013    .110    .065    .007   -.061   2.000  99.526
+
+AVER:    2.266  14.141   9.510  44.817    .312  12.522    .504    .022   -.002    .035   2.136  11.156   -.013    .110    .065    .007   -.061   2.000  99.526
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   71 17-09A1 L3.3 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   102    .595   2.855   1.518   6.070    .036   1.418    .087    .002    .000    .004    .218   1.619   -.001    .047    .015    .000  22.000   1.807  38.288
+
+AVER:     .595   2.855   1.518   6.070    .036   1.418    .087    .002    .000    .004    .218   1.619   -.001    .047    .015    .000  22.000   1.807  38.288
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   72 17-09A1 L3.4 Transverse
+
+Un   72 17-09A1 L3.4 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   72 17-09A1 L3.4 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   103   2.269  13.981   9.795  44.356    .267  12.685    .549    .030   -.002    .002   2.564  11.152    .021    .102    .056    .013   -.056   2.000  99.785
+
+AVER:    2.269  13.981   9.795  44.356    .267  12.685    .549    .030   -.002    .002   2.564  11.152    .021    .102    .056    .013   -.056   2.000  99.785
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   72 17-09A1 L3.4 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   103    .595   2.819   1.562   6.000    .031   1.435    .095    .003    .000    .000    .261   1.616    .002    .044    .013    .001  22.000   1.805  38.281
+
+AVER:     .595   2.819   1.562   6.000    .031   1.435    .095    .003    .000    .000    .261   1.616    .002    .044    .013    .001  22.000   1.805  38.281
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   73 17-09A1 L3.5 Transverse
+
+Un   73 17-09A1 L3.5 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   73 17-09A1 L3.5 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   104   2.151  13.861   9.705  44.428    .303  12.636    .496    .033    .001    .009   2.571  11.236    .014    .079    .046    .063   -.044   2.000  99.589
+
+AVER:    2.151  13.861   9.705  44.428    .303  12.636    .496    .033    .001    .009   2.571  11.236    .014    .079    .046    .063   -.044   2.000  99.589
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   73 17-09A1 L3.5 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   104    .565   2.798   1.549   6.017    .035   1.431    .086    .004    .000    .001    .262   1.630    .001    .034    .011    .003  22.000   1.807  38.233
+
+AVER:     .565   2.798   1.549   6.017    .035   1.431    .086    .004    .000    .001    .262   1.630    .001    .034    .011    .003  22.000   1.807  38.233
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   74 17-09A1 L3.6 Transverse
+
+Un   74 17-09A1 L3.6 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   74 17-09A1 L3.6 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   105   2.209  15.423   7.312  47.334    .318  10.968    .332    .396    .014    .025   1.895  11.432    .014    .137    .079    .021   -.076   2.000  99.832
+
+AVER:    2.209  15.423   7.312  47.334    .318  10.968    .332    .396    .014    .025   1.895  11.432    .014    .137    .079    .021   -.076   2.000  99.832
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   74 17-09A1 L3.6 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   105    .572   3.070   1.150   6.319    .036   1.225    .057    .045    .002    .003    .190   1.635    .001    .058    .018    .001  22.000   1.781  38.162
+
+AVER:     .572   3.070   1.150   6.319    .036   1.225    .057    .045    .002    .003    .190   1.635    .001    .058    .018    .001  22.000   1.781  38.162
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   75 17-09A1 L3.7 Transverse
+
+Un   75 17-09A1 L3.7 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   75 17-09A1 L3.7 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   106   2.181  14.007   9.532  44.453    .261  12.503    .532    .033    .006    .013   2.897  11.275   -.005    .081    .053    .014   -.046   2.000  99.788
+
+AVER:    2.181  14.007   9.532  44.453    .261  12.503    .532    .033    .006    .013   2.897  11.275   -.005    .081    .053    .014   -.046   2.000  99.788
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   75 17-09A1 L3.7 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   106    .571   2.822   1.518   6.008    .030   1.413    .092    .004    .001    .001    .294   1.633   -.001    .035    .012    .001  22.000   1.803  38.237
+
+AVER:     .571   2.822   1.518   6.008    .030   1.413    .092    .004    .001    .001    .294   1.633   -.001    .035    .012    .001  22.000   1.803  38.237
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   76 17-09A1 L3.8 Transverse
+
+Un   76 17-09A1 L3.8 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   76 17-09A1 L3.8 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   107   2.028  14.831   9.143  45.854    .274  12.069    .449   -.004    .013    .040   1.354  11.136    .034    .110    .055   -.001   -.059   2.000  99.326
+
+AVER:    2.028  14.831   9.143  45.854    .274  12.069    .449   -.004    .013    .040   1.354  11.136    .034    .110    .055   -.001   -.059   2.000  99.326
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   76 17-09A1 L3.8 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   107    .530   2.982   1.453   6.185    .031   1.361    .077    .000    .001    .004    .137   1.609    .003    .047    .013    .000  22.000   1.799  38.235
+
+AVER:     .530   2.982   1.453   6.185    .031   1.361    .077    .000    .001    .004    .137   1.609    .003    .047    .013    .000  22.000   1.799  38.235
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   77 17-09A1 L3.9 Transverse
+
+Un   77 17-09A1 L3.9 Transverse
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   77 17-09A1 L3.9 Transverse, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   108   1.908  15.107   8.671  46.524    .259  12.070    .424    .005    .010    .058   1.057  11.191   -.001    .113    .050    .034   -.059   2.000  99.420
+
+AVER:    1.908  15.107   8.671  46.524    .259  12.070    .424    .005    .010    .058   1.057  11.191   -.001    .113    .050    .034   -.059   2.000  99.420
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   77 17-09A1 L3.9 Transverse, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   108    .498   3.031   1.375   6.262    .030   1.359    .073    .001    .001    .006    .107   1.614    .000    .048    .011    .002  22.000   1.796  38.212
+
+AVER:     .498   3.031   1.375   6.262    .030   1.359    .073    .001    .001    .006    .107   1.614    .000    .048    .011    .002  22.000   1.796  38.212
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   78 17-09A1 L4.1
+
+Un   78 17-09A1 L4.1
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   78 17-09A1 L4.1, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   109   2.389  14.945  11.874  43.506    .162  10.548    .473    .037    .018    .052   1.548  11.253    .020    .069    .021   -.002   -.034   2.000  98.879
+
+AVER:    2.389  14.945  11.874  43.506    .162  10.548    .473    .037    .018    .052   1.548  11.253    .020    .069    .021   -.002   -.034   2.000  98.879
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   78 17-09A1 L4.1, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   109    .625   3.007   1.889   5.872    .019   1.191    .081    .004    .002    .006    .157   1.627    .002    .030    .005    .000  22.000   1.801  38.318
+
+AVER:     .625   3.007   1.889   5.872    .019   1.191    .081    .004    .002    .006    .157   1.627    .002    .030    .005    .000  22.000   1.801  38.318
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   79 17-09A1 L4.2
+
+Un   79 17-09A1 L4.2
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   79 17-09A1 L4.2, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   110   2.466  14.616  12.261  42.616    .193  10.521    .526    .002    .022    .056   2.001  11.427    .048    .077    .015    .003   -.036   2.000  98.815
+
+AVER:    2.466  14.616  12.261  42.616    .193  10.521    .526    .002    .022    .056   2.001  11.427    .048    .077    .015    .003   -.036   2.000  98.815
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   79 17-09A1 L4.2, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   110    .648   2.952   1.958   5.774    .022   1.192    .091    .000    .002    .006    .204   1.659    .005    .033    .003    .000  22.000   1.808  38.357
+
+AVER:     .648   2.952   1.958   5.774    .022   1.192    .091    .000    .002    .006    .204   1.659    .005    .033    .003    .000  22.000   1.808  38.357
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   80 17-09A1 L4.3
+
+Un   80 17-09A1 L4.3
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   80 17-09A1 L4.3, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   111   2.719  14.504  10.526  43.162    .273  11.563    .359   -.004    .002    .038   2.666  11.107    .017    .180    .038    .001   -.084   2.000  99.067
+
+AVER:    2.719  14.504  10.526  43.162    .273  11.563    .359   -.004    .002    .038   2.666  11.107    .017    .180    .038    .001   -.084   2.000  99.067
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   80 17-09A1 L4.3, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   111    .718   2.942   1.688   5.874    .031   1.316    .062   -.001    .000    .004    .273   1.619    .002    .077    .009    .000  22.000   1.815  38.431
+
+AVER:     .718   2.942   1.688   5.874    .031   1.316    .062   -.001    .000    .004    .273   1.619    .002    .077    .009    .000  22.000   1.815  38.431
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   81 17-09A1 L4.4
+
+Un   81 17-09A1 L4.4
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   81 17-09A1 L4.4, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   112   2.333  14.144  11.444  43.914    .234  11.934    .445    .035   -.014    .099   1.549  11.113    .025    .096    .017    .005   -.045   2.000  99.329
+
+AVER:    2.333  14.144  11.444  43.914    .234  11.934    .445    .035   -.014    .099   1.549  11.113    .025    .096    .017    .005   -.045   2.000  99.329
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   81 17-09A1 L4.4, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   112    .611   2.849   1.822   5.933    .027   1.348    .077    .004   -.001    .011    .157   1.609    .003    .041    .004    .000  22.000   1.802  38.295
+
+AVER:     .611   2.849   1.822   5.933    .027   1.348    .077    .004   -.001    .011    .157   1.609    .003    .041    .004    .000  22.000   1.802  38.295
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   82 17-09A1 L4.5
+
+Un   82 17-09A1 L4.5
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   82 17-09A1 L4.5, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   113   2.460  13.799  11.823  42.839    .249  11.806    .487    .016    .015    .027   2.639  11.317    .006    .118    .040   -.019   -.059   2.000  99.563
+
+AVER:    2.460  13.799  11.823  42.839    .249  11.806    .487    .016    .015    .027   2.639  11.317    .006    .118    .040   -.019   -.059   2.000  99.563
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   82 17-09A1 L4.5, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   113    .646   2.784   1.886   5.798    .029   1.336    .084    .002    .002    .003    .269   1.641    .001    .051    .009   -.001  22.000   1.805  38.343
+
+AVER:     .646   2.784   1.886   5.798    .029   1.336    .084    .002    .002    .003    .269   1.641    .001    .051    .009   -.001  22.000   1.805  38.343
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   83 17-09A1 L4.6
+
+Un   83 17-09A1 L4.6
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   83 17-09A1 L4.6, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   114   2.500  14.826   9.512  44.713    .222  11.170    .355    .029   -.009    .041   2.502  11.398    .031    .163    .034   -.004   -.076   2.000  99.405
+
+AVER:    2.500  14.826   9.512  44.713    .222  11.170    .355    .029   -.009    .041   2.502  11.398    .031    .163    .034   -.004   -.076   2.000  99.405
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   83 17-09A1 L4.6, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   114    .654   2.982   1.513   6.033    .025   1.260    .061    .003   -.001    .004    .254   1.648    .003    .070    .008    .000  22.000   1.800  38.317
+
+AVER:     .654   2.982   1.513   6.033    .025   1.260    .061    .003   -.001    .004    .254   1.648    .003    .070    .008    .000  22.000   1.800  38.317
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   84 17-09A1 L4.7
+
+Un   84 17-09A1 L4.7
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   84 17-09A1 L4.7, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   115    .962  15.190   4.163  51.103    .245   8.186    .163    .017    .002    .029   1.044  18.685    .007    .090    .021    .038   -.043   2.000 101.904
+
+AVER:     .962  15.190   4.163  51.103    .245   8.186    .163    .017    .002    .029   1.044  18.685    .007    .090    .021    .038   -.043   2.000 101.904
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   84 17-09A1 L4.7, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   115    .243   2.956    .641   6.672    .027    .894    .027    .002    .000    .003    .103   2.614    .001    .037    .005    .002  22.000   1.742  37.968
+
+AVER:     .243   2.956    .641   6.672    .027    .894    .027    .002    .000    .003    .103   2.614    .001    .037    .005    .002  22.000   1.742  37.968
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   85 17-09A1 L4.8
+
+Un   85 17-09A1 L4.8
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   85 17-09A1 L4.8, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   116    .339  14.668   4.148  50.736    .191   7.097    .078   -.001   -.004    .077    .679  21.424    .015    .013    .011    .020   -.008   2.000 101.485
+
+AVER:     .339  14.668   4.148  50.736    .191   7.097    .078   -.001   -.004    .077    .679  21.424    .015    .013    .011    .020   -.008   2.000 101.485
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   85 17-09A1 L4.8, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   116    .086   2.865    .641   6.648    .021    .778    .013    .000    .000    .008    .067   3.008    .002    .005    .002    .001  22.000   1.748  37.893
+
+AVER:     .086   2.865    .641   6.648    .021    .778    .013    .000    .000    .008    .067   3.008    .002    .005    .002    .001  22.000   1.748  37.893
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   86 17-09A1 L4.9
+
+Un   86 17-09A1 L4.9
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   86 17-09A1 L4.9, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   117    .300  15.099   4.026  51.231    .142   5.571    .001   -.005    .026    .560    .526  22.594    .004   -.007    .008   -.018    .001   2.000 102.059
+
+AVER:     .300  15.099   4.026  51.231    .142   5.571    .001   -.005    .026    .560    .526  22.594    .004   -.007    .008   -.018    .001   2.000 102.059
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   86 17-09A1 L4.9, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   117    .076   2.921    .616   6.649    .016    .605    .000   -.001    .003    .057    .051   3.142    .000   -.003    .002   -.001  22.000   1.731  37.865
+
+AVER:     .076   2.921    .616   6.649    .016    .605    .000   -.001    .003    .057    .051   3.142    .000   -.003    .002   -.001  22.000   1.731  37.865
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   87 17-17A1 L2.1 PHXRS
+
+Un   87 17-17A1 L2.1 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   87 17-17A1 L2.1 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   118   2.189  13.956  10.190  44.507    .269  12.159    .452    .032   -.004    .005   2.326  11.472    .041    .065    .052    .030   -.039   2.000  99.703
+
+AVER:    2.189  13.956  10.190  44.507    .269  12.159    .452    .032   -.004    .005   2.326  11.472    .041    .065    .052    .030   -.039   2.000  99.703
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   87 17-17A1 L2.1 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   118    .572   2.806   1.620   6.002    .031   1.371    .078    .004    .000    .001    .236   1.658    .004    .028    .012    .002  22.000   1.799  38.222
+
+AVER:     .572   2.806   1.620   6.002    .031   1.371    .078    .004    .000    .001    .236   1.658    .004    .028    .012    .002  22.000   1.799  38.222
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   88 17-17A1 L2.2 PHXRS
+
+Un   88 17-17A1 L2.2 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   88 17-17A1 L2.2 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   119   1.920  15.530   8.237  47.063    .246  10.650    .400    .012    .018    .012   2.217  11.387    .002    .083    .035   -.010   -.043   2.000  99.761
+
+AVER:    1.920  15.530   8.237  47.063    .246  10.650    .400    .012    .018    .012   2.217  11.387    .002    .083    .035   -.010   -.043   2.000  99.761
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   88 17-17A1 L2.2 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   119    .496   3.084   1.293   6.269    .028   1.186    .068    .001    .002    .001    .222   1.625    .000    .035    .008   -.001  22.000   1.777  38.094
+
+AVER:     .496   3.084   1.293   6.269    .028   1.186    .068    .001    .002    .001    .222   1.625    .000    .035    .008   -.001  22.000   1.777  38.094
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   89 17-17A1 L2.3 PHXRS
+
+Un   89 17-17A1 L2.3 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   89 17-17A1 L2.3 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   120   2.267  14.085  10.359  44.153    .197  11.437    .651    .006    .002    .014   3.209  11.362    .000    .071    .055    .016   -.043   2.000  99.840
+
+AVER:    2.267  14.085  10.359  44.153    .197  11.437    .651    .006    .002    .014   3.209  11.362    .000    .071    .055    .016   -.043   2.000  99.840
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   89 17-17A1 L2.3 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   120    .591   2.825   1.643   5.941    .022   1.287    .112    .001    .000    .002    .325   1.638    .000    .030    .013    .001  22.000   1.795  38.225
+
+AVER:     .591   2.825   1.643   5.941    .022   1.287    .112    .001    .000    .002    .325   1.638    .000    .030    .013    .001  22.000   1.795  38.225
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   90 17-17A1 L2.4 PHXRS
+
+Un   90 17-17A1 L2.4 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   90 17-17A1 L2.4 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   121   2.206  13.684  10.387  43.883    .221  11.851    .617    .039    .023    .005   3.307  11.292    .015    .073    .039    .010   -.040   2.000  99.612
+
+AVER:    2.206  13.684  10.387  43.883    .221  11.851    .617    .039    .023    .005   3.307  11.292    .015    .073    .039    .010   -.040   2.000  99.612
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   90 17-17A1 L2.4 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   121    .578   2.755   1.653   5.927    .025   1.338    .106    .004    .003    .001    .336   1.634    .002    .031    .009    .001  22.000   1.802  38.204
+
+AVER:     .578   2.755   1.653   5.927    .025   1.338    .106    .004    .003    .001    .336   1.634    .002    .031    .009    .001  22.000   1.802  38.204
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   91 17-17A1 L2.5 PHXRS
+
+Un   91 17-17A1 L2.5 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   91 17-17A1 L2.5 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   122   1.888  15.746   7.817  47.383    .232  10.904    .314   -.010    .026    .008   2.156  11.313   -.003    .069    .075    .011   -.046   2.000  99.882
+
+AVER:    1.888  15.746   7.817  47.383    .232  10.904    .314   -.010    .026    .008   2.156  11.313   -.003    .069    .075    .011   -.046   2.000  99.882
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   91 17-17A1 L2.5 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   122    .487   3.125   1.226   6.307    .026   1.214    .053   -.001    .003    .001    .216   1.613    .000    .029    .017    .001  22.000   1.776  38.092
+
+AVER:     .487   3.125   1.226   6.307    .026   1.214    .053   -.001    .003    .001    .216   1.613    .000    .029    .017    .001  22.000   1.776  38.092
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   92 17-17A1 L2.6 PHXRS
+
+Un   92 17-17A1 L2.6 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   92 17-17A1 L2.6 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   123   2.337  13.617  10.363  44.581    .207  11.399    .666    .030   -.001    .004   3.162  11.072    .001    .030    .052    .021   -.025   2.000  99.517
+
+AVER:    2.337  13.617  10.363  44.581    .207  11.399    .666    .030   -.001    .004   3.162  11.072    .001    .030    .052    .021   -.025   2.000  99.517
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   92 17-17A1 L2.6 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   123    .610   2.732   1.644   6.000    .024   1.283    .114    .003    .000    .000    .320   1.597    .000    .013    .012    .001  22.000   1.796  38.149
+
+AVER:     .610   2.732   1.644   6.000    .024   1.283    .114    .003    .000    .000    .320   1.597    .000    .013    .012    .001  22.000   1.796  38.149
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   93 17-17A1 L2.7* PHXRS
+
+Un   93 17-17A1 L2.7* PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   93 17-17A1 L2.7* PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   124    .017   1.850    .353    .004    .306  60.015   -.003    .009    .007    .068  33.386    .016    .000   -.076    .006   -.056    .031   2.000  97.931
+
+AVER:     .017   1.850    .353    .004    .306  60.015   -.003    .009    .007    .068  33.386    .016    .000   -.076    .006   -.056    .031   2.000  97.931
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   93 17-17A1 L2.7* PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   124    .006    .547    .083    .001    .051   9.952   -.001    .001    .001    .011   4.978    .003    .000   -.048    .002   -.004  22.000   2.645  40.229
+
+AVER:     .006    .547    .083    .001    .051   9.952   -.001    .001    .001    .011   4.978    .003    .000   -.048    .002   -.004  22.000   2.645  40.229
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   94 17-17A1 L2.8* PHXRS
+
+Un   94 17-17A1 L2.8* PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   94 17-17A1 L2.8* PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   125   2.045    .035  33.738  47.785    .020    .479    .046   -.002   -.004    .005    .010  16.558   -.012   -.105   -.001    .012    .045   2.000 102.653
+
+AVER:    2.045    .035  33.738  47.785    .020    .479    .046   -.002   -.004    .005    .010  16.558   -.012   -.105   -.001    .012    .045   2.000 102.653
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   94 17-17A1 L2.8* PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   125    .479    .006   4.799   5.768    .002    .048    .007    .000    .000    .000    .001   2.141   -.001   -.040    .000    .001  22.000   1.610  36.821
+
+AVER:     .479    .006   4.799   5.768    .002    .048    .007    .000    .000    .000    .001   2.141   -.001   -.040    .000    .001  22.000   1.610  36.821
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   95 17-17A1 L2.9 PHXRS
+
+Un   95 17-17A1 L2.9 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   95 17-17A1 L2.9 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   126   1.855  15.334   7.769  47.262    .245  11.352    .346    .000    .010    .022   2.080  11.225   -.011    .081    .059    .033   -.047   2.000  99.616
+
+AVER:    1.855  15.334   7.769  47.262    .245  11.352    .346    .000    .010    .022   2.080  11.225   -.011    .081    .059    .033   -.047   2.000  99.616
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   95 17-17A1 L2.9 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   126    .481   3.057   1.225   6.320    .028   1.270    .059    .000    .001    .002    .209   1.608   -.001    .034    .013    .002  22.000   1.784  38.093
+
+AVER:     .481   3.057   1.225   6.320    .028   1.270    .059    .000    .001    .002    .209   1.608   -.001    .034    .013    .002  22.000   1.784  38.093
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   96 17-17A1 L2.10 PHXRS
+
+Un   96 17-17A1 L2.10 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   96 17-17A1 L2.10 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   127   2.300  13.394  10.026  45.574    .247  11.400    .624    .044    .002    .015   2.687  10.944    .033    .059    .058    .009   -.038   2.000  99.380
+
+AVER:    2.300  13.394  10.026  45.574    .247  11.400    .624    .044    .002    .015   2.687  10.944    .033    .059    .058    .009   -.038   2.000  99.380
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   96 17-17A1 L2.10 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   127    .599   2.683   1.588   6.125    .028   1.281    .107    .005    .000    .002    .272   1.576    .003    .025    .013    .000  22.000   1.793  38.102
+
+AVER:     .599   2.683   1.588   6.125    .028   1.281    .107    .005    .000    .002    .272   1.576    .003    .025    .013    .000  22.000   1.793  38.102
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+
+Un   97 17-17A1 L2.11 PHXRS
+
+Un   97 17-17A1 L2.11 PHXRS
+TakeOff = 40.0  KiloVolt = 15.0  Beam Current = 25.0  Beam Size =   20
+
+Formula Based on 22.0 Atoms of  O        Oxygen Calc. by Stoichiometry
+WARNING- Using Polynomial Off-Peak correction for F ka
+
+Un   97 17-17A1 L2.11 PHXRS, Results in Oxide Weight Percents
+
+ELEM:     Na2O     MgO   Al2O3    SiO2     MnO     FeO     K2O    P2O5     NiO   Cr2O3    TiO2     CaO     SO3       F      Cl     BaO       O     H2O   SUM  
+   128   1.931  15.363   7.924  47.223    .259  11.304    .370   -.010    .005    .047   2.137  11.216    .037    .090    .066    .013   -.053   2.000  99.921
+
+AVER:    1.931  15.363   7.924  47.223    .259  11.304    .370   -.010    .005    .047   2.137  11.216    .037    .090    .066    .013   -.053   2.000  99.921
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
+STDS:     1500     450    1545    1039     473    1715    1524    1940     472    1713    1710    1039     708    1360    1560     830     ---     ---
+
+Un   97 17-17A1 L2.11 PHXRS, Results Based on 22 Atoms of O
+
+ELEM:       Na      Mg      Al      Si      Mn      Fe       K       P      Ni      Cr      Ti      Ca       S       F      Cl      Ba       O       H   SUM  
+   128    .499   3.054   1.245   6.298    .029   1.261    .063   -.001    .001    .005    .214   1.603    .004    .038    .015    .001  22.000   1.779  38.107
+
+AVER:     .499   3.054   1.245   6.298    .029   1.261    .063   -.001    .001    .005    .214   1.603    .004    .038    .015    .001  22.000   1.779  38.107
+SDEV:     .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000    .000
